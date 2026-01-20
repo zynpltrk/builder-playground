@@ -1,0 +1,10 @@
+[
+  {
+    "name": "T-Shirt",
+    "color": "red",
+    "type": "clothing",
+    "material": "cotton",
+    "price_range": "cheap",
+    "size": "medium"
+  }
+]
