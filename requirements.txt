@@ -1,0 +1,9 @@
+numpy
+pandas
+requests
+flask
+pygame
+paho-mqtt
+matplotlib
+pyyaml
+python-dotenv
